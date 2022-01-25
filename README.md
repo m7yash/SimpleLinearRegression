@@ -5,7 +5,7 @@ Definition: Linear regression is a linear approach for modelling the relationshi
 
 Use in Supervised Machine Learning: the model will find the best fit linear line between the variables.
 
-Note about Program: This includes both key statistics and a regression report. It can also be used for extrapolating future values!
+Note about Program: This includes both key statistics and a regression report. It can also extrapolate future values!
 
 ## Chi Square Test
 Definition: A chi-squared test is a statistical hypothesis test that is valid to perform when the test statistic is chi-squared distributed under the null hypothesis.
