@@ -161,7 +161,7 @@ public class LinearRegression {
         {
             sdHelper += Math.pow(d - mean, 2);
         }
-        double standardDeviation = Math.sqrt(sdHelper/(limit - 1)); //check
+        double standardDeviation = Math.sqrt(sdHelper/(limit - 1));
 
         return standardDeviation;
     }
