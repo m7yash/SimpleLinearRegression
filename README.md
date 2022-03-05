@@ -3,7 +3,7 @@ Two statistics programs that can be used in Supervised Machine Learning. Both pr
 ## Linear Regression
 Definition: Linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables.
 
-Use in Supervised Machine Learning: the model will find the best fit linear line between the variables.
+Use in Supervised Machine Learning: The model will find the best fit linear line between the variables.
 
 Note about Program: This includes both key statistics and a regression report. It can also extrapolate future values!
 
