@@ -1,5 +1,11 @@
 # SupervisedMachineLearning
 Two statistics programs that can be used in Supervised Machine Learning. Both **programs even show all work in the output**!
+
+# How to Use
+- On this repository's main page, click 'Code' and then click 'Download ZIP'
+- For Linear Regression, use command line to run ```javac LinearRegression.java``` and then ```java LinearRegression``` in the downloaded folder
+- For Chi Square, use command line to run ```javac ChiSquareTest.java``` and then ```java ChiSquareTest``` in the downloaded folder
+
 ## Linear Regression
 Definition: Linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables.
 
