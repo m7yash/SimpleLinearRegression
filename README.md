@@ -13,9 +13,9 @@ Use in Supervised Machine Learning: The model will find the best fit linear line
 
 Note about Program: This includes both key statistics and a regression report. It can also extrapolate future values!
 
-## Chi Square Test
+## Chi Squared Test
 Definition: A chi-squared test is a statistical hypothesis test that is valid to perform when the test statistic is chi-squared distributed under the null hypothesis.
 
 Use in Supervised Machine Learning: Selects best features from given data set to obtain the best results.
 
-Note about Program: This can do chi-square tests of two different types (one for goodness-of-fit and one for homogeneity/independence).
+Note about Program: This can do chi-squared tests of two different types (one for goodness-of-fit and one for homogeneity/independence).
