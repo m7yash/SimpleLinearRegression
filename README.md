@@ -1,5 +1,5 @@
-# SupervisedMachineLearning
-Two statistics programs that can be used in Supervised Machine Learning. Both **programs even show all work in the output**!
+# Linear Regression
+Both programs even show all work in the output!
 
 ## How to Use
 - On this repository's main page, click 'Code' and then click 'Download ZIP'
