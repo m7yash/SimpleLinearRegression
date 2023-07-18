@@ -1,5 +1,5 @@
 # Simple Linear Regression
-Made this in 11th grade to solve AP Statistics homework problems. Both programs show all work in the output.
+Made this in high school to solve AP Statistics homework problems. Both programs show all work in the output.
 
 ## How to Use
 - On this repository's main page, click 'Code' and then click 'Download ZIP'
