@@ -1,4 +1,4 @@
-# Linear Regression
+# Simple Linear Regression
 Both programs even show all work in the output!
 
 ## How to Use
